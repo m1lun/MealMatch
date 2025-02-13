@@ -1,4 +1,4 @@
-# MealMatch Documentation
+# MealMatch
 
 ## Overview
 
